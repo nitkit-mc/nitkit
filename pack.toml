@@ -1,12 +1,12 @@
 name = "Nitkit"
 author = "Nitkit"
-version = "0.5"
+version = "0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6a7f092d97d476b3eccd333f7d93834bccc0d5c0fa07a83f156aea918986328d"
+hash = "15161d63d2f667185cdb85207909fbf87111dcb1732d5870ac147c98bb555c85"
 
 [versions]
 fabric = "0.14.9"
