@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
@@ -16,6 +26,16 @@ hash = "2aebeda354c8fdb0aa26cc461397bb21f659bc149f0caf2ab9f9fe7770177fd4"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "fbab64e61d911af4bff0d2f4e08583c3d6b3a1f0e8e3e8b576c1910f4807fe85"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "514e802a81098dfcde8149f2056c04bd5da31f7b5b463c93eaeef394cac070e3"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
 metafile = true
@@ -23,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "23a87ec473bfb09e0624b4ef0fdec88f321a8d1f0854566ce74e8697ec34a850"
+metafile = true
+
+[[files]]
+file = "mods/culinaire.pw.toml"
+hash = "2729c49a56c9b94101d7baeb853945ae660cc1e6691abc6c402eef283901286c"
 metafile = true
 
 [[files]]
@@ -51,6 +76,11 @@ hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
@@ -58,6 +88,21 @@ metafile = true
 [[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "f6ffa5ba4f78f500531d3ab579eba9f3e1c3a5e56c2d59df897d94e0e5aeff03"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "6280838673fa207e6cad40ec2d5c01f8174de42ef2e1054939b8a642c7742d54"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "3536ef11faf8108f2f925487b793a7f19fee9c67b270594e0f63f44f9d0c26ff"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "da403a55fd88f2d2aeacec6de320b7c8fb5010a7de8b831414fb4933681c9f44"
 metafile = true
 
 [[files]]
