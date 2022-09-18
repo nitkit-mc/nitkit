@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "2aebeda354c8fdb0aa26cc461397bb21f659bc149f0caf2ab9f9fe7770177fd4"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "23a87ec473bfb09e0624b4ef0fdec88f321a8d1f0854566ce74e8697ec34a850"
+metafile = true
+
+[[files]]
+file = "mods/decorative.pw.toml"
+hash = "2e6f19b5ae18be16fa8e447ac0e645f080c957299e721be8dc6fc0f8ddf4286b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "1b747d0c25d421970b1c1df0561c1ece1188fef88f1d5611c55652fdd18870d4"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "f6ffa5ba4f78f500531d3ab579eba9f3e1c3a5e56c2d59df897d94e0e5aeff03"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "7b6b429d4a71feeb83241e7f115158e4bc3390dd9dbb408affa4c99eb7b99a17"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
+metafile = true
