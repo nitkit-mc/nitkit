@@ -261,11 +261,6 @@ hash = "da403a55fd88f2d2aeacec6de320b7c8fb5010a7de8b831414fb4933681c9f44"
 metafile = true
 
 [[files]]
-file = "mods/slight-gui-modifications.pw.toml"
-hash = "6712f720696377f5e8340ce1db3b636fdcf0ae01f85016f9d81b4e9f12552151"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "2ad443646863100af0f66138402e8cbfdf78ea565956d95d8e3e2b32c264d8a6"
 metafile = true
