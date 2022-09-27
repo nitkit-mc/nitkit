@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7cf6e0731a97a85d16c4e15cbe79aeaab619a30c5ec7fb4954ed1fa5a12db1fd"
+hash = "dc306d93b5994351925191bc52eeb1707ebafc07fa1dc3e1d846cb24fe0f452c"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "fbab64e61d911af4bff0d2f4e08583c3d6b3a1f0e8e3e8b576c1910f4807fe85"
+hash = "2c1a2ff78993082c519a49d113c494b0e5c50fbdc091bd1b6d024b912f0ba3b5"
 metafile = true
 
 [[files]]
@@ -83,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "2537505ce320a884323f0dac5bdae3cfc8c79190cc64128aace541b18eb31eb0"
 metafile = true
 
 [[files]]
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+hash = "1f77f681bcbd02c3ba1b2284d29977a21e3fdd37b7e5cc29c5a973a2494e11a4"
 metafile = true
 
 [[files]]
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "1b747d0c25d421970b1c1df0561c1ece1188fef88f1d5611c55652fdd18870d4"
+hash = "25af0cbb0e6c510cbba95a7d5dbe264b8d91b69549b186f50bde498d954c2b91"
 metafile = true
 
 [[files]]
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "97ca2624702a95c8c83f85cec9ca58736fd7fa3f5014bdf8c93e48aaec12ac2e"
+hash = "2674d1260b2917e6090cb84838ded55bef1bb104ca7f83f25e5dce7b94f16f84"
 metafile = true
 
 [[files]]
