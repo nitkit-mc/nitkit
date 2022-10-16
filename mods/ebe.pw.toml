@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1+1.18.2/enhancedbloc
 hash-format = "sha1"
 hash = "e09988fed9394ec5858b81400ba96d2b8b8cab1a"
 
+[option]
+optional=true
+default=true
+
 [update]
 [update.modrinth]
 mod-id = "OVuFYfre"

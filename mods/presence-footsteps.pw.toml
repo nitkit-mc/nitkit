@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/1.5.1/PresenceFootsteps-1
 hash-format = "sha1"
 hash = "cb2d3e9ec90597df161f90fb5c12bce47f99fce5"
 
+[option]
+optional=true
+default=true
+
 [update]
 [update.modrinth]
 mod-id = "rcTfTZr3"

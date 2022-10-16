@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.1-fabric-1.18/entityc
 hash-format = "sha1"
 hash = "523c57485a469c581d7a9bd18ec86c7a92a0ec93"
 
+[option]
+optional=true
+default=true
+
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/74LitD6T/reeses_sodium_op
 hash-format = "sha1"
 hash = "dee11063b13bad4af53f0fa3ac7f911a877706a7"
 
+[option]
+optional=true
+default=true
+
 [update]
 [update.modrinth]
 mod-id = "Bh37bMuy"

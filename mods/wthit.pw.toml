@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/Kmoi91KN/wthit-fabric-4.1
 hash-format = "sha1"
 hash = "b4326ae997258dbba6a6c0fce9b65dce33cfe018"
 
+[option]
+optional=true
+default=true
+
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"

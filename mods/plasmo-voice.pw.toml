@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.18-1.2.19/plasmo
 hash-format = "sha1"
 hash = "72c305c56b654f7bb9627b384d192542b93dc1ca"
 
+[option]
+optional=true
+default=true
+
 [update]
 [update.modrinth]
 mod-id = "1bZhdhsH"
