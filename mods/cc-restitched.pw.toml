@@ -3,11 +3,12 @@ filename = "cc-restitched-1.100.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eldBwa5V/versions/1.100.8+1.18.2/cc-restitched-1.100.8.jar"
+url = "https://git.merith.xyz/modpacks/ultron/raw/branch/main/.minecraft/mods/cc-restitched-1.100.9-pre-release.jar"
+# Backup stored on EmmaKnijn's computer, just in case
 hash-format = "sha1"
-hash = "3c2291e1b3b7bcc238a2c38522afc274c5f83525"
+hash = "1c8bcf047c6d1932e1a5ade78099cb125606e559"
 
-[update]
-[update.modrinth]
-mod-id = "eldBwa5V"
-version = "FbQHIk33"
+#[update]
+#[update.modrinth]
+#mod-id = "eldBwa5V"
+#version = "FbQHIk33"

@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "91f992fa8b10ca4533bbf1d9fe579e2dd31dcc7e0500493ec204f839bf23548f"
+hash = "573eb46b9d640967c2df271069e34fbddbb3c0d681f332bc06338f112cd3f1d1"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
+hash = "ccf1f3f81ce91c460704f8371e1a737343701eb5bd64d1937b18e26d5816b522"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
+hash = "c3f37f2a8b125234079d69b56902c1fdf479c083a5b96de441f69db0f8a7b251"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "23a87ec473bfb09e0624b4ef0fdec88f321a8d1f0854566ce74e8697ec34a850"
+hash = "05d4df9be378eb388f9aaa8ec0377e5c5fe919dbca228a287767176408205ae3"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1f77f681bcbd02c3ba1b2284d29977a21e3fdd37b7e5cc29c5a973a2494e11a4"
+hash = "21011aebe000cc840f7d1b0f51e31d4a43ee6077a00e07332f1139a71813a5da"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "bfd0ac2021aaa227536b46e71776ebf234d53909668fb23225bf2d90d30ba0f9"
+hash = "9e66181300ca8011a4b75941aa72003844239734d1e2e874c4d7de8d7eb6cd57"
 metafile = true
 
 [[files]]
@@ -321,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "7b6b429d4a71feeb83241e7f115158e4bc3390dd9dbb408affa4c99eb7b99a17"
+hash = "3524ddd70691a49b1a428b5e08bd2894bedd04c7d3bcb0ce0044167ed7b69dcd"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "a09e5cf7a0766bbecef5810d752b7cb5074ab439b469bba2bcd2e71860e0a9ba"
+hash = "156a733076e089b5aebc9f4c0847bf84a2e5e25ce6aa307358de8152760b078d"
 metafile = true
 
 [[files]]
