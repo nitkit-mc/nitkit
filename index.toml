@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "c3f37f2a8b125234079d69b56902c1fdf479c083a5b96de441f69db0f8a7b251"
+hash = "b3c369f23f45daf1a97d4a380a859afd9f8b18dac0d1880360bc18a3c408150a"
 metafile = true
 
 [[files]]
