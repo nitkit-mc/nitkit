@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "b3c369f23f45daf1a97d4a380a859afd9f8b18dac0d1880360bc18a3c408150a"
+hash = "22d61a19baeacc20d0300e2fb1cd4e0ee44372e758c8dd2a10e21ab997bad148"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "05d4df9be378eb388f9aaa8ec0377e5c5fe919dbca228a287767176408205ae3"
+hash = "6b3d6414c0bdd71b64601c7647661b91937174b60d5aa029dd173065371d08de"
 metafile = true
 
 [[files]]
