@@ -1,13 +1,7 @@
 name = "UnlimitedPeripheralWorks"
-filename = "peripheralworks-0.2.2.jar"
-side = "both"
+filename = "peripheralworks-0.1.2.jar"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/3787/449/peripheralworks-0.1.2.jar"
 hash-format = "sha1"
-hash = "d3a6871ec21c74934e728cd92406305908f7c4d5"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4264604
-project-id = 621851
+hash = "1fbe6be8c9b585211657f75761ef8a82ae44ed36"

@@ -255,11 +255,6 @@ hash = "f9b34447ccfddadc1c5c4c4858ed7afd6eccc80aa1395a60c24130ae29f4d5a2"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "8a47e399bcc5a01ee72ddff7b66d95c7ddaaaa07ea34989e5439fe1f4e318fea"
-metafile = true
-
-[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "c46c61468b351bcccf411b699816c1f77cb755037550335a85fa0fb5606f04c2"
 metafile = true
@@ -321,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "dac3f9a52654c53dea4d07b3324275a273727da99c9b290355766fddeeb0c901"
+hash = "e16bc51216a971720d60093e6bc754d9787d4326fa1befe3a4d0da73e4aaa736"
 metafile = true
 
 [[files]]
